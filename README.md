@@ -1,4 +1,4 @@
-# Rain Prediction 🌧️🔮📈
+IBM_edunet_project
 
 ## 🚀 Project Overview
 This repository is dedicated to forecasting rainfall using a comprehensive dataset from the Australian Bureau of Meteorology. The dataset encompasses a decade's worth of daily weather observations, including metrics like temperature, humidity, pressure, and wind speed. The goal is to predict the likelihood of rain tomorrow ('RainTomorrow') based on today's weather conditions.
